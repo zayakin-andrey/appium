@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "adm-zip": "~0.4.7",
-    "appium-adb": "=1.7.5",
+    "appium-adb": "yandex-qatools/appium-adb",
     "appium-atoms": "=0.0.5",
     "appium-chromedriver": "=2.3.2",
     "appium-instruments": "^2.0.6",
