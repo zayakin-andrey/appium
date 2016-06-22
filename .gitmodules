@@ -16,6 +16,7 @@
 [submodule "submodules/unlock_apk"]
 	path = submodules/unlock_apk
 	url = https://github.com/appium/unlock_apk.git
+	branch = master
 [submodule "submodules/libimobiledevice-macosx"]
 	path = submodules/libimobiledevice-macosx
 	url = https://github.com/benvium/libimobiledevice-macosx.git
