@@ -37,7 +37,7 @@
 	branch = published
 [submodule "submodules/appium-adb"]
 	path = submodules/appium-adb
-	url = https://github.com/yandex-qatools/appium-adb.git
+	url = https://github.com/zayakin-andrey/appium-adb.git
 	ignore = dirty
 [submodule "submodules/io.appium.android.ime"]
 	path = submodules/io.appium.android.ime
